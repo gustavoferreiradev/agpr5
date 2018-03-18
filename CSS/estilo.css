@@ -1,0 +1,46 @@
+.titulos1{
+    font-family: Montserrat, "Open Sans", Arial, sans-serif;
+    color: #222222;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 63px;
+    
+}
+
+
+
+.titulos2{
+    font-family: Montserrat, "Open Sans", Arial, sans-serif;
+    color: #222222;
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 63px;
+    
+}
+
+.titulos3{
+    font-family: Montserrat, "Open Sans", Arial, sans-serif;
+    color: #222222;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 63px;
+    
+}
+
+.titulos4{
+    font-family: Montserrat;
+    color: #222222;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 63px;
+    
+}
+
+.texto{
+    font-family: Raleway, "Open Sans", Arial, sans-serif;
+    color: #5f6263;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    
+}
